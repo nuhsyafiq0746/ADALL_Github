@@ -1,0 +1,21 @@
+feature
+num__ID
+num__Reason for absence
+num__Month of absence
+num__Day of the week
+num__Seasons
+num__Transportation expense
+num__Distance from Residence to Work
+num__Service time
+num__Age
+num__Work load Average/day 
+num__Hit target
+num__Disciplinary failure
+num__Education
+num__Son
+num__Social drinker
+num__Social smoker
+num__Pet
+num__Weight
+num__Height
+num__Body mass index
